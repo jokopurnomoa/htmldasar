@@ -1,0 +1,38 @@
+HTML
+Daftar isi :
+Dasar HTML //olit
+Tag dalam HTML //olit
+-	!doctype
+-	Head
+-	Meta
+-	Title
+-	Icon
+-	Script
+-	Style
+-	Rel link
+Paragraf //agung
+-	Heading (h1, h2, . . . h7)
+-	U, I, B
+-	P, align
+Gambar //agung
+-	Img, width, height, src, alt
+Font //fadil
+-	Font, font-face, size, color
+List //fadil
+-	UL, OL, LI
+-	Type,
+Input dan Form //joko //pardi
+-	Text input, file input
+-	Radio
+-	Checkbox
+-	Textarea
+-	Select
+-	Button
+Tabel //anto
+-	Tag table
+-	Table, TH, TR, TD, thead
+-	colspan, rowspan
+Link //dannu
+-	A, a href, a href dengan gambar, a href dengan email, a href dengan fungsi
+Frame //dannu
+-	frameset, src, cols, iframe
