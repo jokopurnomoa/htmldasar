@@ -1,0 +1,15 @@
+======================================================
+Public Repository for IBM (Indonesia Belajar Mengajar)
+======================================================
+
+Semua file bisa diunduh dan bisa dipelajari bebas.
+Setiap folder mengandung sub-bab sesuai dengan modul
+yang dibuat. 
+
+Khusus untuk dokumen semua unggah kedalam folder
+dokumen.
+
+======================================================
+Kontak :
+Dannu : dannu47@gmail.com
+======================================================
